@@ -16,3 +16,4 @@ v1.0.1.0  28 Jul 2022 Updates with Recovery tasks
 v1.0.0.7  12 May 2022 Updated for AD TimeSkew and Replication monitors, PA updated for 692 event output to Server OS class
 v1.0.0.3  28 Apr 2022 Updated with ATQ, GPO Monitor diagnostics, corrected PA to PowerShell
 v1.0.0.0  12 Apr 2022 Created Proactive TopProcess monitoring customizations pack
+ 
