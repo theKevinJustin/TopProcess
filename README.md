@@ -1,7 +1,7 @@
 # TopProcess
 Integrate Top Process scripts to SCOM for on-demand tasks, recovery tasks on monitors, to identify the offending application when monitor goes unhealthy.
 
-Proactive.TopProcess.Monitoring.Customizations 1.0.1.5
+Proactive.TopProcess.Monitoring.Customizations 1.0.1.6
 
 Download [Here](https://github.com/theKevinJustin/TopProcess/blob/main/Proactive.TopProcess.Monitoring.Customizations.xml)
 
@@ -13,6 +13,7 @@ and recovery tasks to help make Admins work easier to find the culprit causing s
 
 # Version History:
 ```
+v1.0.1.6  26 Dec 2023 WhiteSpace updates
 v1.0.1.5  30 Nov 2023 Tier0 Updated Recovery Tasks to WA, Removed debug detail from DS/WA which showed in Health Explorer pane
 v1.0.1.4  18 Jul 2023 Updated reports to informational
 v1.0.1.3  24 Feb 2023 Removed diagnostics
